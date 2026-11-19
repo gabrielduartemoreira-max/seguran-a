@@ -1,1 +1,8 @@
-
+:root{
+  --primaria: #003366;
+  --secundaria: #ffcc00;
+  --perigo: #cc0000;
+  --texto: #1a1a1a;
+  --fundo: #ffffff;
+  --fundo-cartao: #f0f4f8;
+}
