@@ -6,3 +6,7 @@
   --fundo: #ffffff;
   --fundo-cartao: #f0f4f8;
 }
+{ box-sizing: border-box;
+ margin: 0;
+ padding: 0;
+}
