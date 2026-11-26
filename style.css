@@ -53,6 +53,18 @@ body{
   font-size: 1rem;
   display: flez;
   align-items: center;
+  gap; 8px;
+}
+
+.botao-controle:hover{
+    background: var(--secundaria);
+}
+
+.botao-leitura{
+   background: #28a745;
+  color: white;
+  border: none:
+}
 
 
 
