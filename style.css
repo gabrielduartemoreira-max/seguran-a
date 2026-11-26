@@ -66,6 +66,62 @@ body{
   border: none:
 }
 
+/* 1. Inicio: Banner com Botão de Ajuda */
+.banner {
+    background-color:var(--secundaria);
+  color:white;
+  padding:50px 20px;
+  text-align: center;
+  border-bottom: 10px solid var(--perigo);
+}
+
+.banner h1: 2.5rem;
+margin-bottom: 20px;
+padding-top: 70px;
+}
+
+.botao-ajuda{
+  display: inline-block;
+  background-color:var(--perigo);
+  color: whitw;
+  padding: 20px 40px;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 50px;
+  font-size: 1.5rem;
+border: 4px solid white;
+  box-shadow: 0 5px 15px rgba(0,0,0,o,3);
+  transition: transform 0.2s;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
 
 
 
