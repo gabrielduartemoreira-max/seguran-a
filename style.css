@@ -93,6 +93,23 @@ border: 4px solid white;
   box-shadow: 0 5px 15px rgba(0,0,0,o,3);
   transition: transform 0.2s;
 }
+.botao-ajua:active{
+  transform: scale(0.95);
+}
+.conteudo{
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+}
+.modal-fundo{
+  display: none;
+  position: fixed;
+  z-index: 1000;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color
 
 
 
